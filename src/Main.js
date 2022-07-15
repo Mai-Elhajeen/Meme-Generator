@@ -11,7 +11,7 @@ function Main() {
         <button className='btn'>Get a new meme image  🖼</button>
       </form>
 
-      <img src='./img/memeimg.png' />
+      <img src='./img/memeimg.png' alt='memes'/>
     </main>
   )
 }
