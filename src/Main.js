@@ -2,8 +2,8 @@ import React from 'react'
 
 function Main() {
   return (
-    <main>
-      <form>
+    <main className='main'>
+      <form className='form'>
         <div className='inputs'>
           <input className='input' type='text' value='Shut up' />
           <input className='input' type='text' value='and take my money' />
